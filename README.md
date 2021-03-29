@@ -1,6 +1,7 @@
 # `react-html-map`
 
 Declarative, composable and secure HTML rendering for React.  
+Read [the introduction article](https://medium.com/oberonamsterdam/an-elegant-way-to-deal-with-rich-text-fields-in-react-66ff82518318) for the thoughts behind this lib.
 
 ## Example
 Provide your html, your 'tag mapping', and you're done!
