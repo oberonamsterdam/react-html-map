@@ -1,5 +1,8 @@
 # `react-html-map`
 
+[![](https://github.com/oberonamsterdam/react-html-map/actions/workflows/main.yml/badge.svg)](https://github.com/oberonamsterdam/react-html-map/actions/workflows/main.yml)
+----
+
 Declarative, composable and secure HTML rendering for React.  
 Read [the introduction article](https://medium.com/oberonamsterdam/an-elegant-way-to-deal-with-rich-text-fields-in-react-66ff82518318) for the thoughts behind this lib.
 
